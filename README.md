@@ -15,4 +15,3 @@ yslow
 w3c validator
 w3c mobile check
 w3c whole validation service
-favicon.ico
