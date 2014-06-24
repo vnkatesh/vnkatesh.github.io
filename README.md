@@ -9,7 +9,7 @@ Now using www.cloudflare.com
 TODO
 =================
 Add Google+
-#coming-soon (Hi! I'm venky) should be reduced for small screen size. font-size is currently static at 2em
+\#coming-soon (Hi! I'm venky) should be reduced for small screen size. font-size is currently static at 2em
 IE8 fix?
 pagespeed
 yslow
