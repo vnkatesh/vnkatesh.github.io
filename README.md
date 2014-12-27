@@ -2,13 +2,12 @@ vnkatesh.github.io
 ==================
 
 * Website
-* http://www.willpeavy.com/minifier/
-* http://www.shrinker.ch/
+* http://www.willpeavy.com/minifier/ for \*.html minify
+* http://www.shrinker.ch/ for JS, CSS Minify
 * Now using www.cloudflare.com
 
 TODO
 =================
-* Add Google+
 * \#coming-soon (Hi! I'm venky) should be reduced for small screen size. font-size is currently static at 2em
 * IE8 fix?
 * pagespeed
