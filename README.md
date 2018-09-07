@@ -16,3 +16,5 @@ TODO
 * w3c mobile check
 * w3c whole validation service
 * http://linter.structured-data.org/ and https://webmaster.yandex.com/microtest.xml for RDF validation
+
+* gawker referral redirect. low google rankings..
