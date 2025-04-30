@@ -4,8 +4,7 @@
 *   `html-minifier --collapse-whitespace --remove-comments
     --remove-optional-tags --remove-redundant-attributes
     --remove-script-type-attributes --remove-tag-whitespace --use-short-doctype
-    --collapse-inline-tag-whitespace --minify-css true --minify-js true --output
-    index.html index-full.html`
+    --minify-css true --minify-js true --output index.html index-full.html`
 *   http://www.shrinker.ch/ for JS, CSS Minify
 *   Now using www.cloudflare.com
 
